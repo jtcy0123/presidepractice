@@ -4,8 +4,8 @@
 	<tab id="main">
 		<fieldset id="main">
 			<field binding="news_listing.news_details" />
-			<field binding="news_listing.region" />
-			<field binding="news_listing.categories" />
+			<field binding="news_listing.region"       />
+			<field binding="news_listing.categories"   />
 		</fieldset>
 	</tab>
 
