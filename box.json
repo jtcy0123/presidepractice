@@ -1,0 +1,14 @@
+{
+    "name":"PresideRev",
+    "version":"1.0.0",
+    "author":"Jasmin",
+    "slug":"presiderev",
+    "createPackageDirectory" : false,
+    "private":true,
+    "installPaths":{
+        "presidecms":"preside"
+    },
+    "dependencies":{
+        "presidecms":"stable"
+    }
+}
